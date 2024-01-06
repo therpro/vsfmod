@@ -53,5 +53,3 @@ loom {
 		defaultRefmapName = actualmodid + ".refmap.json"
 	}
 }
-
-apply from: 'mcreator.gradle'
