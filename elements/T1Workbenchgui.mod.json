@@ -1,0 +1,50 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 434,
+    "height": 247,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_craftrevolver4iron",
+          "text": "craft revolver (4 iron)",
+          "onClick": {
+            "name": "RevolverCrafting"
+          },
+          "width": 130,
+          "height": 20,
+          "x": 6,
+          "y": 4
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_creaft_revolver_bullets_1_iron_e",
+          "text": "creaft revolver bullets 1 iron each",
+          "onClick": {
+            "name": "RevolverBulletCrafting"
+          },
+          "width": 207,
+          "height": 20,
+          "x": 160,
+          "y": 5
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

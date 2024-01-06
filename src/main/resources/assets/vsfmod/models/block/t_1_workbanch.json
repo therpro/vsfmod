@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vsfmod:block/blackbox",
+    "up": "vsfmod:block/blackbox",
+    "north": "vsfmod:block/blackbox",
+    "east": "vsfmod:block/blackbox",
+    "south": "vsfmod:block/blackbox",
+    "west": "vsfmod:block/blackbox",
+    "particle": "vsfmod:block/blackbox"
+  },
+  "render_type": "solid"
+}

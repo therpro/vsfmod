@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:cauldron"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:netherrack"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vsfmod:scrifitual_knife",
+    "count": 1
+  }
+}
